@@ -1,0 +1,6 @@
+[2025-08-31 17:12:03,521][main.py][line:474][INFO] ##1: Starting Time: 2025-08-31 17:12:03
+[2025-08-31 17:12:03,521][main.py][line:155][INFO] device: cpu
+[2025-08-31 17:12:04,232][main.py][line:98][INFO] src device: cpu, dst device: cpu, edge_index device: cpu
+[2025-08-31 17:12:04,316][main.py][line:158][INFO] load_time = 0:00:00.794909, train len = 300
+[2025-08-31 17:12:04,405][main.py][line:177][INFO] embLearner: EmbLearnerKNN
+[2025-08-31 17:13:50,591][main.py][line:219][INFO] epoch_loss = 2440.624692440033, epoch = 0, epoch_time = 106
